@@ -1,0 +1,3 @@
+==============abstrak
+Dataset ini berisi informasi tentang hasil operasi caesar dari 80 ibu hamil 
+dengan karakteristik masalah persalinan yang paling penting di bidang medis.
